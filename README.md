@@ -102,25 +102,53 @@ Aici voi posta niște screen-shoturi pentru a ilustra cum se utilizează aplica�
 1. La început conturul răspunsurilor este roșu deoarece nu a fost selectat niciun răspuns.
 
 <a href="https://github.com/EmanuelaIlie/JocDidactic">
-    <img src="images/main.PNG" alt="profile" width="300" height="250">
+    <img src="images/raspunsNeselectat.PNG" alt="profile" width="350" height="300">
   </a>
 
 2. După ce s-a ales ceva, se face verde, la fel si butonul de next.
 
 <a href="https://github.com/EmanuelaIlie/JocDidactic">
-    <img src="images/newacc.PNG" alt="profile" width="300" height="250">
+    <img src="images/RaspunsSelectat.PNG" alt="profile" width="350" height="300">
   </a>
 
 3. Câteva dintre întrebările posibile.
 
 <a href="https://github.com/EmanuelaIlie/JocDidactic">
-    <img src="images/elev.PNG" alt="profile" width="300" height="250">
+    <img src="images/intrebare1.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/intrebare2.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/intrebare3.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/intrebare4.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/intrebare5.PNG" alt="profile" width="350" height="300">
   </a>
 
 4. Interpretarea rezultatului prin număr de obiecte.
 
 <a href="https://github.com/EmanuelaIlie/JocDidactic">
-    <img src="images/notite.PNG" alt="profile" width="300" height="250">
+    <img src="images/corect3.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/corect5.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/corect7.PNG" alt="profile" width="350" height="300">
+  </a>
+  
+  <a href="https://github.com/EmanuelaIlie/JocDidactic">
+    <img src="images/corect9.PNG" alt="profile" width="350" height="300">
   </a>
                     
 
