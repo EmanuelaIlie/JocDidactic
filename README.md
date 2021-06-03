@@ -47,21 +47,13 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Despre proiect</a>
-      <ul>
-        <li><a href="#built-with">Construit cu</a></li>
-      </ul>
-    </li>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Cerințe></li>
-        <li><a href="#installation">Instalare></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Utilizare</a></li>
+    <li><a href="#despre-proiect">Despre proiect</a></li> 
+    <li><a href="#construit-cu">Construit cu</a></li>
+     <li><a href="#cerințe">Cerințe></li>
+     <li><a href="#instalare">Instalare></li>
+    <li><a href="#utilizare">Utilizare</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Sitografie</a></li>
+    <li><a href="#sitografie">Sitografie</a></li>
   </ol>
 </details>
 
