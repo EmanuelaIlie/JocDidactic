@@ -54,14 +54,12 @@
       </ul>
     </li>
     <li>
-      
       <ul>
         <li><a href="#prerequisites">Cerințe></li>
         <li><a href="#installation">Instalare></li>
       </ul>
     </li>
     <li><a href="#usage">Utilizare</a></li>
-   
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Sitografie</a></li>
   </ol>
@@ -82,7 +80,7 @@ La final, punctajul va fi interpretat printr-un numar de obiecte, pe care elevul
 * [Android Studio](https://developer.android.com/studio)
 
 
-### Prerequisites
+### Cerințe
 
 * Android Studio
   Se poate descarca de aici: https://developer.android.com/studio
@@ -163,7 +161,7 @@ Project Link: [https://github.com/EmanuelaIlie/JocDidactic](https://github.com/E
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Sitografie
 * [icons8](https://icons8.com/icons/set/android)
 * [GitHub Pages](https://pages.github.com)
 
