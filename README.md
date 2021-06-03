@@ -49,8 +49,8 @@
   <ol>
     <li><a href="#despre-proiect">Despre proiect</a></li> 
     <li><a href="#construit-cu">Construit cu</a></li>
-    <li><a href="#cerințe">Cerințe></a></li>
-     <li><a href="#instalare">Instalare></a></li>
+    <li><a href="#cerințe">Cerințe</a></li>
+    <li><a href="#instalare">Instalare</a></li>
     <li><a href="#utilizare">Utilizare</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#sitografie">Sitografie</a></li>
