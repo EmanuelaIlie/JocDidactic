@@ -29,7 +29,7 @@
   <h3 align="center">Joc didactic</h3>
 
   <p align="center">
-    Desktop application for teachers and students
+    Aplicație mobilă pentru elevii de clasa 0
     <br />
     <a href="https://github.com/EmanuelaIlie/JocDidactic"><strong>Explore the docs »</strong></a>
     <br />
@@ -45,7 +45,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Cuprins</summary>
   <ol>
     <li><a href="#despre-proiect">Despre proiect</a></li> 
     <li><a href="#construit-cu">Construit cu</a></li>
